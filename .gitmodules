@@ -1,0 +1,6 @@
+[submodule "notes-store-frontend"]
+	path = notes-store-frontend
+	url = https://github.com/artemebeermaker/notes-store-frontend
+[submodule "notes-store-backend"]
+	path = notes-store-backend
+	url = https://github.com/artemebeermaker/notes-store-backend
